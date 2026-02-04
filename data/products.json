@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Office Chair",
+        "price": 15000,
+        "stock": 10,
+        "description": "Ergonomic office chair with lumbar support"
+    },
+    {
+        "id": 2,
+        "name": "Laptop Bag",
+        "price": 5000,
+        "stock": 25,
+        "description": "Water-resistant laptop bag with multiple compartments"
+    },
+    {
+        "id": 3,
+        "name": "USB Mouse",
+        "price": 2000,
+        "stock": 50,
+        "description": "Wireless optical mouse with USB receiver"
+    },
+    {
+        "id": 4,
+        "name": "Keyboard",
+        "price": 8000,
+        "stock": 20,
+        "description": "Mechanical keyboard with RGB backlighting"
+    },
+    {
+        "id": 5,
+        "name": "Monitor Stand",
+        "price": 6500,
+        "stock": 15,
+        "description": "Adjustable monitor stand with storage drawer"
+    }
+]

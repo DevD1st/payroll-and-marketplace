@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@company.com",
+        "password": "$2y$10$PIIwq9g3RwmLuRS7nILuEuxTmKUMnNrJqZLVFqc3OY369oQdcCOFy",
+        "role": "admin",
+        "hourly_rate": 5000,
+        "balance": 0
+    },
+    {
+        "id": 2,
+        "name": "John Doe",
+        "email": "john@company.com",
+        "password": "$2y$10$JebIIQ2YKcqy7brcqMR95uxuLCthg67a6YUvNEwj.M3rYPEPE7wfa",
+        "role": "employee",
+        "hourly_rate": 2500,
+        "balance": 50000
+    }
+]
