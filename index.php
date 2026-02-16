@@ -159,7 +159,7 @@ $show_logout_message = isset($_GET['logged_out']);
                         Developer
                     </p>
                     <p class="text-xs text-gray-500 font-mono">
-                        25/0069
+                        PG/25/0069
                     </p>
                 </div>
             </div>
@@ -279,7 +279,7 @@ $show_logout_message = isset($_GET['logged_out']);
                         FB
                     </div>
                     <h3 class="text-lg font-bold text-gray-900 mb-1">
-                        Fabuyi Blessing Grace
+                        Fabiyi Blessing Grace
                     </h3>
                     <p class="text-sm text-gray-600 mb-2">
                         Developer
