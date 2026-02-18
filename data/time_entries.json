@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "id": "17713950512530",
+        "user_id": 2,
+        "user_name": "John Doe",
+        "month": "January",
+        "year": 2026,
+        "hours": 110,
+        "hourly_rate": 2500,
+        "gross_pay": 275000,
+        "tax": 27500,
+        "net_pay": 247500,
+        "date_processed": "2026-02-18 07:10:51"
+    }
+]

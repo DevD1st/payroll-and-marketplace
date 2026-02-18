@@ -127,10 +127,10 @@ require_once __DIR__ . '/../../includes/header.php';
                 <label for="hourly_rate" class="block text-sm font-medium text-gray-700 mb-2">
                     New Hourly Rate (₦)
                 </label>
-                <input type="number" id="hourly_rate" name="hourly_rate" required min="0" step="1000"
+                <input type="number" id="hourly_rate" name="hourly_rate" required min="0" step="any"
                        value="<?php echo $employee['hourly_rate']; ?>"
                        class="w-full px-4 py-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent text-lg"
-                       placeholder="50000">
+                       placeholder="2100">
                 <p class="mt-2 text-sm text-gray-500">Enter the new hourly rate in Naira (₦)</p>
             </div>
             

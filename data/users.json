@@ -15,6 +15,24 @@
         "password": "$2y$10$JebIIQ2YKcqy7brcqMR95uxuLCthg67a6YUvNEwj.M3rYPEPE7wfa",
         "role": "employee",
         "hourly_rate": 2500,
-        "balance": 50000
+        "balance": 297500
+    },
+    {
+        "id": 3,
+        "name": "System Admin",
+        "email": "admin@portal.com",
+        "password": "admin123",
+        "role": "admin",
+        "hourly_rate": 0,
+        "balance": 0
+    },
+    {
+        "id": 4,
+        "name": "Standard User",
+        "email": "user@portal.com",
+        "password": "user123",
+        "role": "employee",
+        "hourly_rate": 50000,
+        "balance": 0
     }
 ]
